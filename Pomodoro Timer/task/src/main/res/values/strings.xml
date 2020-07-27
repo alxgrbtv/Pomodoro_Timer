@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pomodoro Timer</string>
+    <string name="button_start">Start</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_setting">SETTING</string>
+    <string name="hint_rest">REST TIME (in seconds)</string>
+    <string name="hint_work">WORK TIME (in seconds)</string>
+    <string name="button_cancel" translatable="false">Cancel</string>
+    <string name="button_ok" translatable="false">OK</string>
+    <string name="rest_notif_message">Relaaaaaax…</string>
+    <string name="rest_notif_title">You need a rest!</string>
+    <string name="finish_notif_title">Well done!</string>
+    <string name="finish_notif_message">You can go to eat shawarma.</string>
+    <string name="clear_notifications">Clear all</string>
+</resources>
